@@ -40,9 +40,6 @@ To set up the environment, install the necessary dependencies:
 pip install pennylane scikit-learn numpy pandas
 ```
 
-## License
-This project is licensed under the MIT License.
-
 ---
 This project serves as an analysis of QML embeddings in classical ML pipelines and their impact on model performance. 🚀
 
